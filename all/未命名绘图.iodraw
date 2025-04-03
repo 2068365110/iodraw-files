@@ -17,13 +17,13 @@
           <mxGeometry x="220" y="140" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-28" value="预约讲座" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="170" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-29" value="取消预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="230" width="60" height="40" as="geometry" />
+          <mxGeometry x="305" y="210" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-30" value="论坛交流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="270" width="70" height="50" as="geometry" />
+          <mxGeometry x="300" y="250" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-31" value="查询公告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="320" width="70" height="50" as="geometry" />
