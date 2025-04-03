@@ -181,8 +181,8 @@
             <mxPoint x="495" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="620" width="31" height="45" as="geometry" />
+        <mxCell id="wFycq64LFK0XtXU5JfyS-71" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="690" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
