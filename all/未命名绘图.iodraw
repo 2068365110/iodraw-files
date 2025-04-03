@@ -4,25 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="wFycq64LFK0XtXU5JfyS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-1" target="wFycq64LFK0XtXU5JfyS-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-1" value="高校校园讲座师生与预约系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="240" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-13" target="wFycq64LFK0XtXU5JfyS-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="294" y="330" />
-              <mxPoint x="432" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="358" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-16" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="378" y="363" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
