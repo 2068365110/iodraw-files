@@ -29,13 +29,13 @@
           <mxGeometry x="560" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-32" value="弹窗提醒" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="360" width="60" height="40" as="geometry" />
+          <mxGeometry x="550" y="330" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-33" value="评论收藏讲座" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="390" width="70" height="40" as="geometry" />
+        <mxCell id="wFycq64LFK0XtXU5JfyS-33" value="评论收藏讲座" style="ellipse;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-34" value="留言反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344" y="380" width="70" height="40" as="geometry" />
+        <mxCell id="wFycq64LFK0XtXU5JfyS-34" value="留言反馈" style="ellipse;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="380" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
