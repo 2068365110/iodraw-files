@@ -175,6 +175,9 @@
             <mxPoint x="495" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wFycq64LFK0XtXU5JfyS-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-71" target="wFycq64LFK0XtXU5JfyS-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-71" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="620" width="46" height="80" as="geometry" />
         </mxCell>
