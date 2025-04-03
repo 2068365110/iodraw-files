@@ -16,6 +16,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wFycq64LFK0XtXU5JfyS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-1" target="wFycq64LFK0XtXU5JfyS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFycq64LFK0XtXU5JfyS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-1" target="wFycq64LFK0XtXU5JfyS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-1" value="校园讲座师生预约系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="240" width="140" height="60" as="geometry" />
         </mxCell>
