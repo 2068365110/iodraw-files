@@ -95,13 +95,13 @@
           <mxGeometry x="359" y="210" width="31" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-52" value="登陆注册" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399" y="545" width="60" height="40" as="geometry" />
+          <mxGeometry x="460" y="510" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-53" value="发布讲座" style="ellipse;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="580" width="70" height="40" as="geometry" />
+          <mxGeometry x="475" y="565" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-54" value="私聊回复" style="ellipse;whiteSpace=wrap;html=1;rotation=-35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="620" width="60" height="40" as="geometry" />
+          <mxGeometry x="490" y="620" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-55">
           <mxGeometry relative="1" as="geometry">
