@@ -103,7 +103,7 @@
         <mxCell id="wFycq64LFK0XtXU5JfyS-54" value="私聊回复" style="ellipse;whiteSpace=wrap;html=1;rotation=-35;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="476" y="570" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-55" value="取消预约" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wFycq64LFK0XtXU5JfyS-55" value="预约审核" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="511" y="600" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-56" value="论坛交流" style="ellipse;whiteSpace=wrap;html=1;rotation=-20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
