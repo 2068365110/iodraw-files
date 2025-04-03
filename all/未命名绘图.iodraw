@@ -13,6 +13,9 @@
         <mxCell id="wFycq64LFK0XtXU5JfyS-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wFycq64LFK0XtXU5JfyS-15" value="高校校园讲座师生与预约系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="504" y="256" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
