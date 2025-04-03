@@ -114,6 +114,11 @@
         <mxCell id="wFycq64LFK0XtXU5JfyS-56" value="签到管理" style="ellipse;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477.5" y="730" width="65" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wFycq64LFK0XtXU5JfyS-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.9999999999998" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-71" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="313" y="640" width="46" height="80" as="geometry" />
         </mxCell>
