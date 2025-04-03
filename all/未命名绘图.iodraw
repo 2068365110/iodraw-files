@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="wFycq64LFK0XtXU5JfyS-21" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="220" width="40" height="60" as="geometry" />
+          <mxGeometry x="350" y="230" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-23" value="学生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="250" width="60" height="30" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="530" y="320" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-32" value="弹窗提醒" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="495" y="360" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-33" value="评论收藏讲座" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="430" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-34" value="留言反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="344" y="380" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
