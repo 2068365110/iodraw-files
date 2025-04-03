@@ -11,10 +11,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="456" y="396" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="333" />
-              <mxPoint x="560" y="333" />
-              <mxPoint x="560" y="362" />
-              <mxPoint x="456" y="362" />
+              <mxPoint x="380" y="339" />
+              <mxPoint x="456" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -25,7 +23,7 @@
           <mxGeometry x="198" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-6" value="教师" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399" y="398" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
