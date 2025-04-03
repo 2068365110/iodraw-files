@@ -22,8 +22,14 @@
         <mxCell id="wFycq64LFK0XtXU5JfyS-2" value="学生" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="198" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFycq64LFK0XtXU5JfyS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wFycq64LFK0XtXU5JfyS-6" target="wFycq64LFK0XtXU5JfyS-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wFycq64LFK0XtXU5JfyS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="wFycq64LFK0XtXU5JfyS-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="339" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="562" y="339" />
+              <mxPoint x="562" y="406" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wFycq64LFK0XtXU5JfyS-6" value="教师" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="398" y="380" width="120" height="60" as="geometry" />
